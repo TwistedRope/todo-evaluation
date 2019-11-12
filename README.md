@@ -21,4 +21,4 @@ Create a web app (no backend necessary) that will let the user create a "ToDo" l
 To build the web app you can use either vanilla javascript or a framework (preferably React or Vue).  We do not expect you to spend a lot of time on this, the design should be very simple.  We would like the code itself to be well commented, to help us understand your thought process.
 
 # How to submit
-Create a new branch (using your name in the branch name) on this repo and push back to origin.
+Fork this repo and commit all of your code to that new repo.  Once done, email the newly forked repo link back to us.
