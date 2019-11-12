@@ -8,9 +8,17 @@ Create a web app (no backend necessary) that will let the user create a "ToDo" l
 2. Delete a task
 3. Mark a task as complete/incomplete
 
+# Optional Functionalities
+
+1. Item Reordering
+2. Item Renaming
+3. Due Date
+
+# Time Limit - 3 hours
+
 # Other details
 
-To build the web app you can use either vanilla javascript or a framework (preferably React or Vue).  We do not expect you to spend a lot of time on this, the design should be very simple.  We would like the code itself to be well commented, to help us understand your thought process.  We would also like you to include a brief readme.
+To build the web app you can use either vanilla javascript or a framework (preferably React or Vue).  We do not expect you to spend a lot of time on this, the design should be very simple.  We would like the code itself to be well commented, to help us understand your thought process.
 
 # How to submit
 Create a new branch (using your name in the branch name) on this repo and push back to origin.
